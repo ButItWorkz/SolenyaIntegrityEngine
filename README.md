@@ -5,7 +5,7 @@ The Solenya Integrity Engine is a zero-dependency, event-driven File Integrity M
 **Project Status: Ongoing Development**
 This tool is designed specifically for security research, testing, and academic exploration. **It is not designed to replace sophisticated commercial Endpoint Detection and Response (EDR) platforms**, nor is it intended to act as a primary, enterprise-wide persistence analytics tool. 
 
-Instead, Solenya is engineered to be a *supplementary* analytics engine. It is an academic framework intended to demonstrate advanced cybersecurity concepts—enabling practitioners, students, and researchers to study, test, and understand persistence mechanisms without needing a corporate budget, university courses, or nation-state adversaries.
+Instead, Solenya is engineered to be a *supplementary* analytics engine. It is an academic framework intended to demonstrate advanced cybersecurity concepts—enabling practitioners, students, and researchers to study, test, and understand persistence mechanisms without needing a corporate budget, expensive courses, or nation-state adversaries.
 
 ## Ethical Use & Liability Disclaimer
 This framework is provided "as is" strictly for defensive engineering, security research, and authorized systems administration. It is not intended to be utilized as malicious command-and-control (C2) infrastructure, nor should it be used to deploy monitoring payloads to unauthorized endpoints. 
